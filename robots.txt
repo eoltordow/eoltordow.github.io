@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eoltordow.github.io/sitemap
+Sitemap: https://eoltordow.github.io/app/sitemap
+Sitemap: https://eoltordow.github.io/assets/sitemap
+Sitemap: https://eoltordow.github.io/css/sitemap
+Sitemap: https://eoltordow.github.io/includes/sitemap
+Sitemap: https://eoltordow.github.io/item/sitemap
+Sitemap: https://eoltordow.github.io/src/sitemap
